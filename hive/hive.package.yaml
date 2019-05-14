@@ -1,4 +1,4 @@
 packageName: hive-operator
 channels:
 - name: production
-  currentCSV: hive-operator.v0.1.796-2cd528c
+  currentCSV: hive-operator.v0.1.798-811927c
