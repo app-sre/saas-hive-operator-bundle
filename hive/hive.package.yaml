@@ -1,4 +1,4 @@
 packageName: hive-operator
 channels:
 - name: staging
-  currentCSV: hive-operator.v0.1.825-2bcccaf
+  currentCSV: hive-operator.v0.1.827-19e2840
