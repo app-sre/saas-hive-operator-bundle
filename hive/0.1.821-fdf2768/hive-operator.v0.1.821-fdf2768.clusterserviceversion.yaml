@@ -5,7 +5,7 @@ metadata:
     categories: A list of comma separated categories that your operator falls under.
     certified: 'false'
     containerImage: quay.io/dgoodwin/hive:latest
-    createdAt: '2019-05-22T18:53:46Z'
+    createdAt: '2019-05-23T13:10:18Z'
     description: OpenShift cluster provisioning and management at scale.
     support: Devan Goodwin
   name: hive-operator.v0.1.821-fdf2768
